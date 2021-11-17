@@ -22,13 +22,6 @@ I've done projects using React JS, NodeJS, ExpresJS and PostgreSQL.
 ![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
-
-
-
-
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=deltinha&show_icons=true&hide_border=false&line_height=20&title_color=000000&icon_color=000000&show_owner=true&hide_stars=true"/>
-</p>
+![deltinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deltinha&hide=stars,prs&theme=graywhite&show_icons=true)
 
 
