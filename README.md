@@ -3,7 +3,7 @@ I'm Moisés. A full-stack developer and pursuing my bachelor in electrical engin
 I've done projects using React JS, NodeJS, ExpresJS and PostgreSQL.
 - 🌱 I’m currently learning about end to end testing with **Cypress**.
 - 👯 I’m looking to collaborate on **Open Source**. Especially the ones that use one of the above mentioned technologies.
-- 😄 Pronouns: he/ his.
+- 😄 Pronouns: he/ him.
 - 📫 How to reach me: **[moisesbrandao@ufpi.edu.br](mailto:moisesbrandao@ufpi.edu.br)**
 
 ### Technologies 
