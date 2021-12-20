@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Moisés. A full-stack developer and pursuing my bachelor in electrical engineering.
 I've done projects using React JS, NodeJS, ExpresJS and PostgreSQL.
-- 🌱 I’m currently learning **Typescript**.
+- 🌱 I’m currently learning about **Django** and **Typescript**.
 - 👯 I’m looking to collaborate on **Open Source**. Especially the ones that use one of the above mentioned technologies.
 - 😄 Pronouns: he/ him.
 - 📫 How to reach me: **[moisesbrandao@ufpi.edu.br](mailto:moisesbrandao@ufpi.edu.br)**
