@@ -3,7 +3,7 @@ I'm Moisés. A full-stack developer.
 I've done projects using React JS, NodeJS, ExpresJS and PostgreSQL.
 - 🌱 I’m currently learning **object oriented programming**.
 - 😄 Pronouns: he/ him.
-- 📫 How to reach me: **[moisesbrandao@ufpi.edu.br](mailto:moisesbrandao@ufpi.edu.br)**
+- 📫 How to reach me: **[moisesbrandao1998@gmail.com](mailto:moisesbrandao1998@gmail.com)**
 
 ### Technologies 
 
