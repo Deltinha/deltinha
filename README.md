@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Moisés. A full-stack developer and pursuing my bachelor in electrical engineering.
+I'm Moisés. A full-stack developer.
 I've done projects using React JS, NodeJS, ExpresJS and PostgreSQL.
 - 🌱 I’m currently learning **object oriented programming**.
 - 😄 Pronouns: he/ him.
