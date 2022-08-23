@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm Moisés. A full-stack developer.
-I've done projects using React JS, NodeJS, ExpresJS and PostgreSQL.
 - 😄 Pronouns: he/ him.
 - 📫 How to reach me: **[moisesbrandao1998@gmail.com](mailto:moisesbrandao1998@gmail.com)**
 
